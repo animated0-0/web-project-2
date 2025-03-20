@@ -1,0 +1,90 @@
+/**css styles**/
+
+nav{
+    background-color:rgb(47, 79, 79);
+    position: fixed;
+    width: 100%;
+    color: white;
+    height: 90px;
+    font-size: 25px;  
+    left: 0;
+    top: 0;
+    text-align: center;
+}
+
+h1 {
+    font-family:Arial, Helvetica, sans-serif;
+    font-size: 50px;
+    text-align: center;
+    margin-top: 1%;
+}
+
+ul {
+    list-style-type: none;
+    display: flex;
+    gap: 40px;
+}
+
+a {
+    color:rgb(255, 255, 255);
+    font-weight: bold;
+    font-size: 95%
+}
+
+.link {
+    color:white;
+    font-family:Arial, Helvetica, sans-serif
+    
+}
+
+#title {
+    font-family:Arial, Helvetica, sans-serif;
+    font-size: 35px;
+    border-style:hidden;
+    border-radius: 0%;
+    width: 140px;
+    text-align: center;
+    margin-top:auto;
+    margin-bottom:auto
+}
+
+#images {
+    border-style: solid;
+    float: right;
+}
+
+.text {
+    color:rgb(0, 0, 0);
+    font-size: 20px;
+    font-family:Arial, Helvetica, sans-serif;
+    font-weight: bold;
+}
+
+footer {
+    background-color:rgb(47, 79, 79);
+    color: white;
+    height: 80px;
+    font-size: 15px;  
+    text-align: right;
+    margin-bottom: 0%;
+}
+
+.alt-title {
+    text-decoration: underline;
+    color:rgb(14, 14, 14);
+}
+
+.smaller-words {
+    font-size:80%
+}
+
+body {
+    color:rgb(0, 0, 0);
+    font-size: 20px;
+    font-family:Arial, Helvetica, sans-serif;
+    font-weight: bold;
+}
+
+.small-words {
+    font-size:86%;
+}
