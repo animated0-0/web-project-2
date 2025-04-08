@@ -1,7 +1,7 @@
 /**css styles**/
 
 nav{
-    background-color:rgb(47, 79, 79);
+    background-color:#2f4f4f;
     position: fixed;
     width: 100%;
     color: white;
@@ -37,6 +37,7 @@ a {
     
 }
 
+/**nav bar title**/
 #title {
     font-family:Arial, Helvetica, sans-serif;
     font-size: 35px;
@@ -48,11 +49,13 @@ a {
     margin-bottom:auto
 }
 
+/**image**/
 #images {
     border-style: solid;
     float: right;
 }
 
+/**text for content**/
 .text {
     color:rgb(0, 0, 0);
     font-size: 20px;
@@ -74,17 +77,15 @@ footer {
     color:rgb(14, 14, 14);
 }
 
+/**text for smaller words**/
 .smaller-words {
     font-size:80%
 }
 
+/**text font/size **/
 body {
     color:rgb(0, 0, 0);
     font-size: 20px;
     font-family:Arial, Helvetica, sans-serif;
     font-weight: bold;
-}
-
-.small-words {
-    font-size:86%;
 }
